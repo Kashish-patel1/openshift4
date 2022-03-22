@@ -1,5 +1,5 @@
 <?php
-$servername = "openshift5-2";
+$servername = "backend2";
 $username = "root";
 $password = "123";
 $dbname = "cgi";
